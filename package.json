@@ -1,0 +1,21 @@
+{
+  "name": "website-qa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/team-hogc/website-qa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/team-hogc/website-qa/issues"
+  },
+  "homepage": "https://github.com/team-hogc/website-qa#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.26.0"
+  }
+}
